@@ -18,5 +18,6 @@
   },
   "homepage": "https://github.com/bclinkinbeard/egghead-d3v4#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.12"
   }
 }
